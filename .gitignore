@@ -1,3 +1,7 @@
 Library/
 Logs/Packages-Update.log
+<<<<<<< HEAD
+Temp/
+=======
 Temp/UnityLockfile
+>>>>>>> 06f5d0728e374f97acde82f7abdf1e4c810d51ea
